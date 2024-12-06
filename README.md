@@ -1,4 +1,5 @@
 Chatbot for Health Awareness
+
 A healthcare-focused chatbot system designed to provide users with quick and accurate information about potential diseases based on their symptoms. This project aims to reduce healthcare costs and improve accessibility by offering preliminary diagnoses and personalized suggestions before consulting a doctor.
 
 
